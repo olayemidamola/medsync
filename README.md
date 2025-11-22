@@ -1,3 +1,6 @@
+
+![Screenshot of the application's main user interface](images/my-app-screenshot.png) 
+
 # MedSync
 
 **A resilient, real-time medication accountability system designed to prevent missed doses through explicit confirmation and proactive caregiver intervention.**
