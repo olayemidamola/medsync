@@ -1,5 +1,5 @@
 
-![Screenshot of the application's main user interface](images/my-app-screenshot.png) 
+![Screenshot of the application's main user interface](images/my-app-screenshot.PNG) 
 
 # MedSync
 
