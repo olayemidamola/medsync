@@ -1,5 +1,8 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { Clock, AlertCircle, CheckCircle, Bell, BellOff, Users, Plus, Trash2, Settings } from 'lucide-react';
+import './App.css';
+
+
 
 const MedicationTracker = () => {
   const [medications, setMedications] = useState([]);
@@ -610,3 +613,5 @@ const CaregiverForm = ({ onAdd }) => {
 };
 
 export default MedicationTracker;
+
+
