@@ -339,4 +339,4 @@ For issues, questions, or feature requests, please open an issue on GitHub.
 
 ---
 
-Built with ❤️ for medication safety and patient accountability.
+Built with love for medication safety and patient accountability.
